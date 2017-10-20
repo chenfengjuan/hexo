@@ -1,7 +1,9 @@
 ---
 title: Nginx代理解决跨域的理解
-date: 2017-08-19 11:49:04
-tags:
+date: 2017-08-26 11:26:31
+tags: 随笔
+categories: 编程
+toc: true
 ---
 # Nginx代理解决跨域的理解 #
   ## 什么是nginx? ##

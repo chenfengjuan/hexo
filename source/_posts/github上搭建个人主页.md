@@ -1,7 +1,9 @@
 ---
 title: github上搭建个人主页
 date: 2017-08-23 15:53:39
-tags:
+tags: 随笔
+categories: 其他
+toc: true
 ---
 1. 在github上创建并设置远程库，名字：chenfengjuan.github.io,（名字必须是这个）
 2. 本地建立chenfengjuan.github.io文件夹，这个文件夹，必须为空
